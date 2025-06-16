@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Kauã Cavalcante, sou desenvolvedor web focado em back-end, mas com competências de front-end. Possuo domínio de Python e frameworks como Flask, Django e FastAPI, além de JavaScript voltado para front-end com React.</p>
+<p align="justify">Meu nome é Kauã Cavalcante, sou desenvolvedor web focado em back-end, mas com competências de front-end. Possuo domínio de Python e frameworks como Flask, Django e FastAPI, além de JavaScript voltado para front-end com React.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Meu primeiro contato com programação foi em 2023, no meu primeiro ano de ensino médio, com a linguagem Python. Desde então, tive interesse em conhecer mais sobre a área e sobre as possibilidades de trabalho com programação. Enfim, decidi seguir na área de desenvolvimento web devido ao grande escopo que essa área possui, além de benefícios como liberdade geográfica e poder solucionar problemas escrevendo códigos.</p>
+<p align="justify">Meu primeiro contato com programação foi em 2023, no meu primeiro ano de ensino médio, com a linguagem Python. Desde então, tive interesse em conhecer mais sobre a área e sobre as possibilidades de trabalho com programação. Enfim, decidi seguir na área de desenvolvimento web devido ao grande escopo que essa área possui, além de benefícios como liberdade geográfica e poder solucionar problemas escrevendo códigos.</p>
 
 ###
 
